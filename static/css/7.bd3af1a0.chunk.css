@@ -1,0 +1,2 @@
+.body{display:-webkit-flex;display:flex;-webkit-justify-content:space-around;justify-content:space-around;-webkit-align-items:center;align-items:center;height:80vh;padding:0 20px}@media (max-width:425px){.body{-webkit-flex-direction:column;flex-direction:column}}@media (max-width:768px){.body{-webkit-flex-direction:column;flex-direction:column;text-align:center;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center}}.hide{display:none}.show{display:block}
+/*# sourceMappingURL=7.bd3af1a0.chunk.css.map */
